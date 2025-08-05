@@ -20,6 +20,8 @@
 [![c#](	https://img.shields.io/badge/Bitbucket-0747a6?style=for-the-badge&logo=bitbucket&logoColor=white)]()
 ### Games
 
+https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg
+
 [![c#](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/pireeez)
 
 
